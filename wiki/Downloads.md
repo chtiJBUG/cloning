@@ -1,3 +1,3 @@
 Please download from the maven repository:
 
-https://oss.sonatype.org/content/repositories/releases/uk/io/github/kostaskougios/
+https://nexus.pymma-software.net/repository/opensource-maven/
