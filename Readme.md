@@ -15,3 +15,7 @@ MyClass clone=cloner.deepClone(o);
 ## Useful links ##
   * [Usage details and examples](wiki/Usage.md)
   * [Maven Dependency definition](wiki/Maven_Dependency.md)
+## Build
+the chtijbug community is hosted for nexus/jenkins here
+ for nexus : https://nexus.pymma-software.net/
+ for jenkins : https://jenkins.pymma-software.net/view/pymma/ 
